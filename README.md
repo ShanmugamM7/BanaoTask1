@@ -1,4 +1,4 @@
-# Banao_Tech_Task_1
+# BanaoTask1
 Created a project for user Signup and Login using Django-Python.
 
 Pushing the codes as well as directory reference screenshots
